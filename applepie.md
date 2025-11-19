@@ -4,6 +4,9 @@
 *  Sugar
 *  Butter
 * Three eggs
-* Vanilla 
+* Vanilla
+* Gold leaf
+* Decorative edible flowers
+* Antique china plates (to serve) 
 ## Price:
 # 1000 pounds
