@@ -3,6 +3,7 @@
 *  Ten apples 
 *  Sugar
 *  Butter
-* Three eggs 
+* Three eggs
+* Vanilla 
 ## Price:
 # 1000 pounds
