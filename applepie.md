@@ -4,3 +4,5 @@
 *  Sugar
 *  Butter
 * Three eggs 
+## Price:
+# 1000 pounds
