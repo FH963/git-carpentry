@@ -3,4 +3,4 @@
 *  Ten apples 
 *  Sugar
 *  Butter
-*  Eggs 
+* Three eggs 
